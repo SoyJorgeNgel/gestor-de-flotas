@@ -1,6 +1,6 @@
 # Sistema gestor de flotas
 
-Este proyecto fue desarrollado como parte de un trabajo escolar bajo el nombre clave "Trucker Logistic". Se construyó utilizando Laravel 11, Tailwind CSS y Laravel Livewire, además de integrar SweetAlert para las notificaciones del sistema. También se utilizó la API de COPOMEX para facilitar el registro ágil de domicilios.
+Este proyecto fue desarrollado como parte de un trabajo escolar bajo el nombre clave "Trucker Logistic". Se construyó utilizando Laravel 11, Tailwind CSS y Laravel Livewire, además de integrar SweetAlert para las notificaciones del sistema. También se utilizó la API de COPOMEX para facilitar el registro ágil de domicilios. Por ultimo para la generacion de reportes en PDF se uso DomPDF.
 
 El sistema está orientado a la administración de una empresa de tractocamiones, con el objetivo de automatizar la organización de viajes y evitar conflictos logísticos. Aunque el proyecto fue aprobado como parte del proceso de titulación, se presentó también al cliente final. Sin embargo, debido a un cambio de administración en la empresa, decidieron continuar gestionando sus operaciones mediante hojas de cálculo en Excel.
 
